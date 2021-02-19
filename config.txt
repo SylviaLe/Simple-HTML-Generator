@@ -1,0 +1,10 @@
+BODY_BACKGROUND		FloralWhite
+CELL_BACKGROUND1	rgb(175,175,160)
+CELL_BACKGROUND2	#B6CEE2
+TABLE_BORDER_COLOR	DarkOrange
+TABLE_BORDER_PX		6
+AUTHORS			COM 214
+TITLE				RaNdOm LEtTeRs
+IMAGES
+hi.png	bye.png	go.png
+love.jpg	hel.jpg	ba.png
