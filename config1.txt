@@ -4,6 +4,9 @@ CELL_BACKGROUND2	#B6CEE2
 TABLE_BORDER_COLOR	DarkOrange
 TABLE_BORDER_PX		6
 AUTHORS			COM 214
-TITLE				RaNdOm LEtTeRs
-LETTERS
-5x5
+TITLE				Cards
+IMAGES
+c1.gif	c11.gif
+d2.gif	d12.gif
+h3.gif	h13.gif
+s4.gif	s1.gif
