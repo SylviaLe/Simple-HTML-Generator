@@ -1,11 +1,11 @@
 - Contribution:
 Assessment by |	Sylvia		Jack		Hang		Melissa
 
-Sylvia		   X		  
+Sylvia		   X		X  X X  
 
-Jack				  X
+Jack				  X  X  X  X
 
-Hang						  X
+Hang				X		X  X  X
 
 Melissa			X	 X		X		    X
 
