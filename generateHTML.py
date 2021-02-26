@@ -115,7 +115,7 @@ def main():
             border-collapse:collapse; 
             margin-left: auto; 
             margin-right: auto; 
-            width: 80%
+            width: 60%
             }}
         tr td {{
             border: {1}px solid {2};
@@ -135,6 +135,11 @@ def main():
             text-align: center; 
             font-size: 21px;
             font-style: bold;
+        }}
+        img{{
+            min-width = 100px !important;
+            max-height = 100px !important;
+            object-fit: contain;
         }}
     </style>    
     </head>
@@ -202,17 +207,19 @@ def main():
         
         rows, cols = 0, 0
         if mode == 'images':    #if the user specifies he want a table of images
-            imgsList = f.readlines()
+            imgs = f.readlines()
             #get the table dimension
-            row = len(imgsList)
-            col = imgsList[0].count('\t') + 1
+            row = len(imgs)
+            col = imgs[0].count('\t') + 1
             
             #create a list of image link
-            imgsStr = str(imgsList)
-            imgs = imgsStr.replace("['", '').replace("']",'').replace('\\n', '\\t').replace("', '", '').split('\\t')
+            imgsList = []
+            for item in imgs:
+                line = item.split()
+                imgsList += line
 
             #create a table of images
-            table_str = pic_table(row, col, imgs)
+            table_str = pic_table(row, col, imgsList)
             
         elif mode == 'letters':
             #get the table dimension
