@@ -2,6 +2,7 @@
 #Programming Assignment 1
 #File: generateHTML.py
 #Date: 02-23-2021
+#this program will create a helper program for users who do not know how to use HTML
 
 #import libraries. re for regular expression
 import re
