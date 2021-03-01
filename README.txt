@@ -3,9 +3,9 @@ Assessment by |	Sylvia		Jack		Hang		Melissa
 
 Sylvia		  25%	         25%               25%                25%
 
-Jack	  25%           25%           25%              25%
+Jack	    25%           25%           25%              25%
 
-Hang	  25%             25%              25%                25%    
+Hang	    25%             25%              25%                25%    
  
 Melissa		25%		25%		25%	           25%
 
