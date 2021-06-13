@@ -1,13 +1,13 @@
 - Contribution:
 Assessment by |	Sylvia		Jack		Hang		Melissa
 
-Sylvia		  25%	         25%               25%                25%
+Sylvia		  30%	         20%             30%               20%
 
-Jack	          25%           25%              25%              25%
+Jack	          25%            25%             25%               25%
 
-Hang	        25%             25%              25%                25%    
+Hang	          30%            15%             30%               25%    
  
-Melissa		25%		25%		25%	           25%
+Melissa		  25%		 25%		 25%	           25%
 
 
 - NOTES ON THE PROJECT:
