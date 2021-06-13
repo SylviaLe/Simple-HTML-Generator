@@ -1,18 +1,17 @@
-- Contribution:
-Assessment by |	Sylvia		Jack		Hang		Melissa
+# Simple HTML Generator
 
-Sylvia		  30%	         20%             30%               20%
+A Python script that generates HTML code. This serve as the programming assignment to my Web Dev course
 
-Jack	          25%            25%             25%               25%
+<img src="screenshot.png" width="700"/>
 
-Hang	          30%            15%             30%               25%    
- 
-Melissa		  25%		 25%		 25%	           25%
+## Installation & Usage
+
+Clone this repository to your machine and run generateHTML.py.
+
+For custom preferences, please edit the config.txt or config1.txt (keep the format)
 
 
-- NOTES ON THE PROJECT:
-  + The builtin function format() is widely used
-  + Use just a tiny bit of regex to find the pattern in wrap()
-  + Use the datetime library strftime() function to generate a formatted string of date time for the footnote
-  + The config.txt and config1.txt is sample test file. config.txt is for letters table, the other is for images table
-  + The selectors in the CSS string in the .py file are followed by {{ to tell format() not to count the things in follow {{ as the placeholder
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
